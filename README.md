@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivowermelinger
-- 👀 I’m interested in Webdevelopment, React & Craft CMS
-- 🌱 I’m currently learning Craft CMS
+- 👀 I’m interested in Webdevelopment, SvelteKit & Craft CMS
+- 🌱 I’m currently working with Craft CMS and Wordpress
 
 <!---
 ivowermelinger/ivowermelinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
